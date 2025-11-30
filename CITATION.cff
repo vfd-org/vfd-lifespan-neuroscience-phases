@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "A Technical Evaluation of φ-Spaced Phase Windows Against Lifespan Neuroscience Data"
+abstract: >-
+  This exploratory study evaluates whether a minimal geometric timing model—employing
+  φ-scaled (golden ratio) phase windows derived from the Vibrational Field Dynamics
+  (VFD) framework—aligns with empirically observed neurobiological reorganisation
+  periods across the human lifespan. The model generates five phase windows from a
+  single recursive formula, with phase centres determined a priori and no parameters
+  fitted to the empirical data under evaluation.
+authors:
+  - family-names: "Smart"
+    given-names: "Lee"
+    affiliation: "Vibrational Field Dynamics Institute"
+    email: "contact@vibrationalfielddynamics.org"
+repository-code: "https://github.com/vfd-org/vfd-lifespan-neuroscience-phases"
+url: "https://github.com/vfd-org/vfd-lifespan-neuroscience-phases"
+license: MIT
+version: "1.0.0"
+date-released: 2025-01-01
+keywords:
+  - golden ratio
+  - phi
+  - lifespan neuroscience
+  - phase transitions
+  - geometric scaling
+  - neurodevelopment
+  - brain aging
+  - vibrational field dynamics
+  - VFD
+  - logarithmic scaling
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Smart"
+      given-names: "Lee"
+      affiliation: "Vibrational Field Dynamics Institute"
+  title: "A Technical Evaluation of φ-Spaced Phase Windows Against Lifespan Neuroscience Data"
+  year: 2025
+  institution:
+    name: "Vibrational Field Dynamics Institute"
+  url: "https://github.com/vfd-org/vfd-lifespan-neuroscience-phases"
